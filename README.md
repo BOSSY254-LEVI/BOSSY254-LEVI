@@ -4,6 +4,12 @@
 
 Passionate Full Stack Developer specializing in modern web technologies. I build efficient, scalable solutions with clean code and intuitive user experiences.
 
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical)
+
 ## 🛠️ Technologies & Tools
 
 ### Frontend
@@ -21,12 +27,6 @@ Passionate Full Stack Developer specializing in modern web technologies. I build
 ### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical)
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/livingstone-otieno-bb0baa373/)
