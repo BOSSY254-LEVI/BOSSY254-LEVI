@@ -48,7 +48,6 @@ const bossie = {
   philosophy: "Write code that's readable, reusable, and reliable",
   funFact: "Built my first website at 14 using Notepad"
 };
-
 <!-- ############################ TECH STACK ############################ -->
 🛠️ Tech Stack
 Languages & Frameworks
