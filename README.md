@@ -35,7 +35,7 @@
 
 ## 🧠 Who is Bossie Levi?
 
-```javascript
+```javascript ```
 const bossieLevi = {
   pronouns: "he" | "him",
   title: "Full Stack Web Developer",
@@ -53,7 +53,9 @@ const bossieLevi = {
   },
   philosophy: "Code smart. Build globally. Solve locally.",
   funFact: "Built my first website using Notepad at 14!"
-} ```
+}
+
+```
 
 🧰 Tech Toolbox
 🚀 Languages & Frameworks
