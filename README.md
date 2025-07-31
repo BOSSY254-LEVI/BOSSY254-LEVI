@@ -32,9 +32,9 @@
 </div>
 
 ---
-## 🧠 Who is Bossie Levi?
+## 🧠 Wondering Who is Bossie Levi?
 
-``` javascript
+javascript
 const bossieLevi = {
   pronouns: "he" | "him",
   title: "Full Stack Web Developer",
@@ -54,6 +54,7 @@ const bossieLevi = {
   funFact: "Built my first website using Notepad at 14!"
 };
 
+```
 ```
 🧰 Tech Toolbox
 🚀 Languages & Frameworks
