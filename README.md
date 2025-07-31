@@ -35,8 +35,6 @@
 
 ## 🧠 Who is Bossie Levi?
 
-## 🧠 Who is Bossie Levi?
-
 ```javascript
 const bossieLevi = {
   pronouns: "he" | "him",
@@ -55,8 +53,7 @@ const bossieLevi = {
   },
   philosophy: "Code smart. Build globally. Solve locally.",
   funFact: "Built my first website using Notepad at 14!"
-}
-```
+} ```
 
 🧰 Tech Toolbox
 🚀 Languages & Frameworks
