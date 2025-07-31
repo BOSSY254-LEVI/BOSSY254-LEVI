@@ -53,7 +53,8 @@ const bossieLevi = {
   },
   philosophy: "Code smart. Build globally. Solve locally.",
   funFact: "Built my first website using Notepad at 14!"
-}
+}```
+
 🧰 Tech Toolbox
 🚀 Languages & Frameworks
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,django,html,css,bootstrap,tailwind" alt="Tech Stack Icons"/> </div>
