@@ -34,25 +34,9 @@
 ---
 ## 🧠 Wondering Who is Bossie Levi?
 
-javascript
-const bossieLevi = {
-  pronouns: "he" | "him",
-  title: "Full Stack Web Developer",
-  strengths: [
-    "Pixel-perfect Frontend Design",
-    "Scalable Backend Systems", 
-    "Clean & Maintainable Code",
-    "Collaborative Development"
-  ],
-  techStack: {
-    frontend: ["React", "TypeScript", "HTML/CSS", "Tailwind", "Bootstrap"],
-    backend: ["Node.js", "Express", "Python", "Django"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    devOps: ["Docker", "Git", "CI/CD", "AWS Basics"]
-  },
-  philosophy: "Code smart. Build globally. Solve locally.",
-  funFact: "Built my first website using Notepad at 14!"
-};
+Detail-oriented and capable IT professional with hands-on experience in operating systems, firewalls, network security, and troubleshooting. Skilled in biometric systems, software configuration, and delivering responsive IT support.
+
+Proficient in functioning in high-pressure work environments and solving problems with analytical thinking. Passionate about creating technological solutions that make a real impact.
 
 ```
 ```
