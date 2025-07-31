@@ -35,6 +35,8 @@
 
 ## 🧠 Who is Bossie Levi?
 
+## 🧠 Who is Bossie Levi?
+
 ```javascript
 const bossieLevi = {
   pronouns: "he" | "him",
@@ -55,6 +57,7 @@ const bossieLevi = {
   funFact: "Built my first website using Notepad at 14!"
 }
 ```
+
 🧰 Tech Toolbox
 🚀 Languages & Frameworks
 <div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,django,html,css,bootstrap,tailwind" alt="Tech Stack Icons"/> </div>
