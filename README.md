@@ -35,7 +35,7 @@
 
 ## 🧠 Who is Bossie Levi?
 
-```javascript ```
+``` javascript
 const bossieLevi = {
   pronouns: "he" | "him",
   title: "Full Stack Web Developer",
