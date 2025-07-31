@@ -34,7 +34,7 @@
 ---
 ## 🧠 Wondering Who is Bossie Levi?
 
-Detail-oriented and capable IT professional with hands-on experience in operating systems, firewalls, network security, and troubleshooting. Skilled in biometric systems, software configuration, and delivering responsive IT support.
+I am a Detail-oriented and capable IT professional with hands-on experience in operating systems, firewalls, network security, and troubleshooting. Skilled in biometric systems, software configuration, and delivering responsive IT support.
 
 Proficient in functioning in high-pressure work environments and solving problems with analytical thinking. Passionate about creating technological solutions that make a real impact.
 
