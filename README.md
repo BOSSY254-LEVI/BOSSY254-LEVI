@@ -33,6 +33,7 @@
 
 <!-- ############################ ABOUT ME ############################ -->
 ## 🧑‍💻 About Me
+
 ```javascript
 const bossie = {
   pronouns: "he" | "him",
@@ -47,12 +48,16 @@ const bossie = {
   philosophy: "Write code that's readable, reusable, and reliable",
   funFact: "Built my first website at 14 using Notepad"
 };
+
 <!-- ############################ TECH STACK ############################ -->
 🛠️ Tech Stack
-<div align="center"> <h3>Languages & Frameworks</h3> <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,django,html,css,bootstrap,tailwind" alt="Tech Stack"/> <h3>Databases & Tools</h3> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,git,docker,vscode,github,aws,figma" alt="Tools"/> </div><!-- ############################ GITHUB STATS ############################ -->
+Languages & Frameworks
+<div align="center"> <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,django,html,css,bootstrap,tailwind" alt="Tech Stack"/> </div>
+Databases & Tools
+<div align="center"> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,git,docker,vscode,github,aws,figma" alt="Tools"/> </div><!-- ############################ GITHUB STATS ############################ -->
 📊 GitHub Analytics
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bossy254-levi&theme=radical&hide_border=true" alt="Streak Stats"/> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/> </div><!-- ############################ FEATURED PROJECTS ############################ -->
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats"/> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bossy254-levi&theme=radical&hide_border=true" alt="Streak Stats"/> <br> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/> <img width="48%" src="https://github-profile-trophy.vercel.app/?username=bossy254-levi&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies"/> </div><!-- ############################ FEATURED PROJECTS ############################ -->
 🚀 Featured Projects
-<div align="center"> <a href="https://bossy254-levi.github.io/BOSSY254-LEVI/"> <img width="80%" src="https://github-readme-medium-card.vercel.app/?username=bossy254-levi&theme=radical" alt="Portfolio Preview"/> </a> </div><table> <tr> <td width="50%"> <h3 align="center">Project 1</h3> <div align="center"> <a href="#"> <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=bossy254-levi&repo=BOSSY254-LEVI&theme=radical" alt="Project 1"/> </a> </div> </td> <td width="50%"> <h3 align="center">Project 2</h3> <div align="center"> <a href="#"> <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=bossy254-levi&repo=PORTFOLIO&theme=radical" alt="Project 2"/> </a> </div> </td> </tr> </table><!-- ############################ ACTIVITY GRAPH ############################ -->
+<div align="center"> <a href="https://bossy254-levi.github.io/BOSSY254-LEVI/"> <img width="80%" src="https://github-readme-medium-card.vercel.app/?username=bossy254-levi&theme=radical" alt="Portfolio Preview"/> </a> </div><div align="center"> <table> <tr> <td width="50%"> <h3 align="center">Portfolio Website</h3> <div align="center"> <a href="https://bossy254-levi.github.io/BOSSY254-LEVI/"> <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=bossy254-levi&repo=BOSSY254-LEVI&theme=radical" alt="Portfolio"/> </a> </div> </td> <td width="50%"> <h3 align="center">JavaScript Projects</h3> <div align="center"> <a href="#"> <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=bossy254-levi&repo=PORTFOLIO&theme=radical" alt="JS Projects"/> </a> </div> </td> </tr> </table> </div><!-- ############################ ACTIVITY GRAPH ############################ -->
 📈 Contribution Graph
 <div align="center"> <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/> </div><!-- ############################ FOOTER ############################ --><div align="center"> <img src="https://komarev.com/ghpvc/?username=bossy254-levi&label=Profile+Views&color=6A11CB&style=flat" alt="Profile views"/> <p> <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square" alt="Made with Markdown"/> <img src="https://img.shields.io/badge/Updated-${new Date().toLocaleDateString()}-blue?style=flat-square" alt="Last Updated"/> </p> <p>Let's connect and build something amazing together! ✨</p> </div> ```
