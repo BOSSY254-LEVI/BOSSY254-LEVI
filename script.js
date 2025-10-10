@@ -5,6 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initSkillAnimations();
   initScrollAnimations();
   initContactForm();
+  initNewsletterForm();
   initThemeSystem();
   initEnhancedBackground();
   initParticleSystem();
@@ -404,11 +405,11 @@ function updateBackgroundEffects(themeName) {
 // Contact Form Handling
 function initContactForm() {
   const contactForm = document.getElementById('contactForm');
-  
+
   if (contactForm) {
     contactForm.addEventListener('submit', function(e) {
       e.preventDefault();
-      
+
       // Get form data
       const formData = new FormData(this);
       const name = formData.get('name');
@@ -416,34 +417,34 @@ function initContactForm() {
       const company = formData.get('company');
       const budget = formData.get('budget');
       const message = formData.get('message');
-      
+
       // Simple validation
       if (!name || !email || !message) {
         showNotification('Please fill in all required fields', 'error');
         return;
       }
-      
+
       // Email validation
       const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
       if (!emailRegex.test(email)) {
         showNotification('Please enter a valid email address', 'error');
         return;
       }
-      
+
       // Simulate form submission
       const submitBtn = this.querySelector('button[type="submit"]');
       const originalText = submitBtn.innerHTML;
-      
+
       submitBtn.innerHTML = '<i class="bi bi-arrow-repeat spin"></i> Sending...';
       submitBtn.disabled = true;
-      
+
       // Simulate API call
       setTimeout(() => {
         showNotification('Proposal request sent successfully! I\'ll get back to you within 24 hours.', 'success');
         contactForm.reset();
         submitBtn.innerHTML = originalText;
         submitBtn.disabled = false;
-        
+
         // Log form data (in real implementation, send to server)
         console.log('Form submission:', {
           name,
@@ -454,6 +455,48 @@ function initContactForm() {
           timestamp: new Date().toISOString()
         });
       }, 2000);
+    });
+  }
+}
+
+// Newsletter Form Handling
+function initNewsletterForm() {
+  const newsletterForm = document.getElementById('newsletterForm');
+
+  if (newsletterForm) {
+    newsletterForm.addEventListener('submit', function(e) {
+      e.preventDefault();
+
+      // Get email
+      const email = this.querySelector('input[type="email"]').value;
+
+      // Email validation
+      const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+      if (!email || !emailRegex.test(email)) {
+        showNotification('Please enter a valid email address', 'error');
+        return;
+      }
+
+      // Simulate form submission
+      const submitBtn = this.querySelector('button[type="submit"]');
+      const originalText = submitBtn.innerHTML;
+
+      submitBtn.innerHTML = '<i class="bi bi-arrow-repeat spin"></i> Subscribing...';
+      submitBtn.disabled = true;
+
+      // Simulate API call
+      setTimeout(() => {
+        showNotification('Successfully subscribed! Thank you for joining our newsletter.', 'success');
+        newsletterForm.reset();
+        submitBtn.innerHTML = originalText;
+        submitBtn.disabled = false;
+
+        // Log email (in real implementation, send to server)
+        console.log('Newsletter subscription:', {
+          email,
+          timestamp: new Date().toISOString()
+        });
+      }, 1500);
     });
   }
 }
