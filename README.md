@@ -15,7 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/bossy254-levi?style=social&label=Follow" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/%F0%9F%8C%90-Portfolio-6A11CB?style=flat-square" alt="Portfolio"/>
+  [![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90-Portfolio-6A11CB?style=flat-square)](https://bossy254-levi.github.io/BOSSY254-LEVI/)
   <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
 </p>
 
