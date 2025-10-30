@@ -1,151 +1,150 @@
-# Livingstone Oduor Otieno - Senior Full-Stack Developer & UI/UX Specialist
-
+🚀 Livingstone Oduor Otieno
+Senior Full-Stack Developer & UI/UX Specialist
 <div align="center">
-  <img src="https://img.shields.io/badge/Developer-A--Grade-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Developer Grade"/>
-  <img src="https://img.shields.io/badge/GitHub-100%25_Active-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Activity"/>
-  <img src="https://img.shields.io/badge/Contributions-500%2B_This_Year-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
+https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Livingstone+Oduor+Otieno;+Senior+Full-Stack+Developer;+UI/UX+Specialist;+Problem+Solver;+Tech+Innovator+%F0%9F%9A%80
+
+</div><div align="center">
+https://img.shields.io/github/followers/bossy254-levi?style=social&label=Follow
+https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white
+https://img.shields.io/badge/%F0%9F%8C%90-Portfolio-6A11CB?style=flat-square
+https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white
+
 </div>
-
-<!-- Professional Snake Animation -->
+📋 Quick Navigation
+Section	Description	Quick Link
+🎯 About Me	Professional background & mission	Jump ↓
+🛠️ Tech Stack	Technologies & proficiency	Jump ↓
+📊 GitHub Stats	Analytics & contributions	Jump ↓
+🚀 Projects	Featured work & demos	Jump ↓
+🏆 Achievements	Certifications & awards	Jump ↓
+📞 Contact	Get in touch	Jump ↓
+👨‍💻 About Me
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Professional Contribution Snake Animation" />
+javascript
+const livingstone = {
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  frameworks: ["React", "Node.js", "Express", "Django", "Tailwind"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL"],
+  tools: ["Docker", "Git", "AWS", "Figma", "VS Code"],
+  architecture: ["Full-Stack", "REST APIs", "Microservices", "PWAs"],
+  passion: "Creating digital experiences that solve real-world problems",
+  currentFocus: "Building scalable web applications & mentoring developers",
+  funFact: "I can debug production issues while drinking coffee ☕"
+};
 </div>
+I'm a detail-oriented IT professional with extensive expertise in full-stack development, network security, and innovative problem-solving. I thrive in high-pressure environments where I can leverage my analytical thinking to create technological solutions that drive meaningful business impact.
 
-## 👋 About Me
+🌟 My Mission: To build elegant, efficient, and user-centric applications that push the boundaries of what's possible in digital experiences.
 
-I am a detail-oriented and capable IT professional with extensive experience in full-stack development, operating systems, firewalls, network security, and troubleshooting. Skilled in biometric systems, software configuration, and delivering responsive IT support.
-
-Proficient in high-pressure work environments, I excel at solving complex problems through analytical thinking and innovative technological solutions that drive real business impact.
-
-## 🧰 Technical Expertise
-
-### Languages & Frameworks
+🛠️ Tech Stack Mastery
+Frontend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,django,html,css,bootstrap,tailwind" alt="Tech Stack Icons"/>
+https://img.shields.io/badge/React-Expert-61DAFB?style=for-the-badge&logo=react&logoColor=white
+https://img.shields.io/badge/TypeScript-Advanced-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Tailwind-Advanced-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+
 </div>
-
-### Databases & Tools
+Backend Development
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,git,docker,vscode,github,aws,figma" alt="Tools Icons"/>
+https://img.shields.io/badge/Node.js-Expert-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express-Expert-000000?style=for-the-badge&logo=express&logoColor=white
+https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Django-Intermediate-092E20?style=for-the-badge&logo=django&logoColor=white
+
 </div>
-
-## 📊 GitHub Analytics
-
+Databases & Cloud
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bossy254-levi&theme=radical&hide_border=true&ring=6A11CB&fire=6A11CB&currStreakNum=6A11CB" alt="Streak Stats"/>
-  <br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=bossy254-levi&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+https://img.shields.io/badge/MongoDB-Expert-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/PostgreSQL-Advanced-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/AWS-Intermediate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white
+
 </div>
-
-### 📈 Advanced GitHub Metrics
-
+📊 GitHub Analytics Dashboard
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>🏆 Developer Grade</h4>
-        <img src="https://img.shields.io/badge/A--Grade-Excellent-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="A- Grade"/>
-      </td>
-      <td align="center">
-        <h4>⭐ Total Stars Earned</h4>
-        <img src="https://img.shields.io/badge/10%2C000%2B-Stars-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="10,000+ Stars"/>
-      </td>
-      <td align="center">
-        <h4>📝 Total Commits</h4>
-        <img src="https://img.shields.io/badge/10%2C000%2B-Commits-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="10,000+ Commits"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>🔄 Total PRs</h4>
-        <img src="https://img.shields.io/badge/500%2B-PRs-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="500+ PRs"/>
-      </td>
-      <td align="center">
-        <h4>✅ Merged PRs</h4>
-        <img src="https://img.shields.io/badge/450%2B-Merged-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="450+ Merged"/>
-      </td>
-      <td align="center">
-        <h4>📊 Merge Rate</h4>
-        <img src="https://img.shields.io/badge/90%25-Merge_Rate-00CED1?style=for-the-badge&logo=github&logoColor=white" alt="90% Merge Rate"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>👁️ PR Reviews</h4>
-        <img src="https://img.shields.io/badge/200%2B-Reviews-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="200+ Reviews"/>
-      </td>
-      <td align="center">
-        <h4>💬 Discussions</h4>
-        <img src="https://img.shields.io/badge/150%2B-Started-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="150+ Discussions"/>
-      </td>
-      <td align="center">
-        <h4>📈 Contributions</h4>
-        <img src="https://img.shields.io/badge/500%2B-This_Year-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="500+ Contributions"/>
-      </td>
-    </tr>
-  </table>
+📈 Activity Overview
+https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
+https://github-readme-streak-stats.herokuapp.com/?user=bossy254-levi&theme=radical&hide_border=true&ring=6A11CB&fire=6A11CB&currStreakNum=6A11CB
+
+💻 Language Proficiency
+https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true&langs_count=8
+https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true&langs_count=8
+https://github-profile-trophy.vercel.app/?username=bossy254-levi&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15
+
 </div>
-
-## 🚀 Featured Projects
-
+🎯 Performance Metrics
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h3>🌐 Portfolio Website</h3>
-        <a href="https://bossy254-levi.github.io/BOSSY254-LEVI/">
-          <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=bossy254-levi&repo=BOSSY254-LEVI&theme=radical" alt="Portfolio Repo"/>
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <h3>📋 Easy Track Organization</h3>
-        <a href="https://easy-track-organization.vercel.app/">
-          <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=bossy254-levi&repo=easy-track-organization&theme=radical" alt="Easy Track Organization"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+Metric	Status	Level
+Code Quality	https://img.shields.io/badge/A%252B_Grade-Excellent-32CD32?style=for-the-badge	Expert
+Project Delivery	https://img.shields.io/badge/95%2525_Success_Rate-Outstanding-008080?style=for-the-badge	Outstanding
+Team Collaboration	https://img.shields.io/badge/Top_Contributor-Leadership-FF6B6B?style=for-the-badge	Leadership
+Problem Solving	https://img.shields.io/badge/Innovative_Solutions-Creative-9370DB?style=for-the-badge	Creative
 </div>
-
-## 📈 Contribution Activity
-
+🚀 Featured Projects Showcase
+🎨 Portfolio Website - React • TypeScript • Tailwind
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=github-compact&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" alt="Contribution Graph"/>
+https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-Visit_Site-6A11CB?style=for-the-badge
+https://img.shields.io/badge/%F0%9F%93%81_Source_Code-Repository-181717?style=for-the-badge&logo=github
+
+</div> A modern, responsive portfolio showcasing my projects and skills with smooth animations and optimized performance.
+✨ Features: PWA • Dark/Light Mode • SEO Optimized • 95+ Lighthouse Score
+
+📊 Easy Track Organization - Full-Stack • MongoDB • Express
+<div align="center">
+https://img.shields.io/badge/%F0%9F%9A%80_Live_Demo-Try_Now-32CD32?style=for-the-badge
+https://img.shields.io/badge/%F0%9F%93%81_Source_Code-Repository-181717?style=for-the-badge&logo=github
+
+</div> An organizational tool for efficient task management and team collaboration with real-time updates.
+🚀 Tech Stack: MERN Stack • JWT Auth • Real-time Updates • Responsive Design
+
+🏆 Achievements & Certifications
+<div align="center">
+Achievement	Organization	Status	Year
+Full Stack Web Developer	Power Learn Project	✅ Certified	2024
+Google UX Design Professional	Google Career Certificates	✅ Certified	2024
+Database Design & SQL	Power Learn Project	✅ Certified	2024
+A- Grade Developer	GitHub Analytics	🏅 Achieved	2024
+500+ Contributions	GitHub	🎯 Completed	2024
 </div>
-
-## 🏆 Achievements & Certifications
-
-- **A- Grade Developer** - Recognized for exceptional code quality and project delivery
-- **100% GitHub Active** - Consistent daily contributions and community engagement
-- **500+ Contributions This Year** - Demonstrating sustained productivity and collaboration
-- **Full Stack Web Developer Certification** - Power Learn Project Organization
-- **Google UX Design Professional** - Google Career Certificates
-- **Database Design & Programming with SQL** - Power Learn Project Organization
-
-## 📫 Connect With Me
-
+📅 Development Activity
 <div align="center">
-  <a href="https://www.linkedin.com/in/livingstone-otieno-bb0baa373/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-  <a href="mailto:livingstoneoduory@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/>
-  </a>
-  <a href="https://bossy254-levi.github.io/BOSSY254-LEVI/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-6A11CB?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/bossy254-levi" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
+https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=github-compact&hide_border=true&area=true&custom_title=Weekly%2520Development%2520Activity&area_color=6A11CB
+
 </div>
-
+📞 Let's Connect & Collaborate
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bossy254-levi&label=Profile+Views&color=6A11CB&style=flat" alt="Profile views"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=flat-square" alt="Markdown Badge"/>
-  <img src="https://img.shields.io/badge/Updated-December%202024-blue?style=flat-square" alt="Last Updated"/>
-  <br/>
-  <h4>Let's collaborate to create impactful digital experiences. 🚀</h4>
+💼 Professional Networks
+https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white
+https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white
+https://img.shields.io/badge/%F0%9F%8C%90-Portfolio-6A11CB?style=for-the-badge
+https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white
+
+📧 Quick Contact Form
+I'm currently available for:
+
+🚀 Full-Stack Development Projects
+
+🎨 UI/UX Design Consultations
+
+💡 Technical Mentoring & Code Reviews
+
+🤝 Open Source Collaborations
+
+📞 Response Time: Usually within 2-4 hours
+
+</div>
+<div align="center">
+🎉 Thanks for visiting my profile!
+https://komarev.com/ghpvc/?username=bossy254-levi&label=Profile+Views&color=6A11CB&style=flat-square
+https://img.shields.io/badge/Updated-December%25202024-blue?style=flat-square
+https://img.shields.io/badge/%F0%9F%9A%80_Open_For_Opportunities-Available-32CD32?style=for-the-badge
+
+"Let's turn ideas into exceptional digital experiences together!" ✨
+
+</div>
+<div align="center">
+⭐ Don't forget to star my repositories if you find them interesting!
+
 </div>
