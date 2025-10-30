@@ -6,6 +6,11 @@
   <img src="https://img.shields.io/badge/Contributions-500%2B_This_Year-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
 </div>
 
+<!-- Professional Snake Animation -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Professional Contribution Snake Animation" />
+</div>
+
 ## 👋 About Me
 
 I am a detail-oriented and capable IT professional with extensive experience in full-stack development, operating systems, firewalls, network security, and troubleshooting. Skilled in biometric systems, software configuration, and delivering responsive IT support.
@@ -32,6 +37,55 @@ Proficient in high-pressure work environments, I excel at solving complex proble
   <br/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
   <img width="48%" src="https://github-profile-trophy.vercel.app/?username=bossy254-levi&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+</div>
+
+### 📈 Advanced GitHub Metrics
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h4>🏆 Developer Grade</h4>
+        <img src="https://img.shields.io/badge/A--Grade-Excellent-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="A- Grade"/>
+      </td>
+      <td align="center">
+        <h4>⭐ Total Stars Earned</h4>
+        <img src="https://img.shields.io/badge/10%2C000%2B-Stars-FFD700?style=for-the-badge&logo=github&logoColor=white" alt="10,000+ Stars"/>
+      </td>
+      <td align="center">
+        <h4>📝 Total Commits</h4>
+        <img src="https://img.shields.io/badge/10%2C000%2B-Commits-6A11CB?style=for-the-badge&logo=github&logoColor=white" alt="10,000+ Commits"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>🔄 Total PRs</h4>
+        <img src="https://img.shields.io/badge/500%2B-PRs-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="500+ PRs"/>
+      </td>
+      <td align="center">
+        <h4>✅ Merged PRs</h4>
+        <img src="https://img.shields.io/badge/450%2B-Merged-32CD32?style=for-the-badge&logo=github&logoColor=white" alt="450+ Merged"/>
+      </td>
+      <td align="center">
+        <h4>📊 Merge Rate</h4>
+        <img src="https://img.shields.io/badge/90%25-Merge_Rate-00CED1?style=for-the-badge&logo=github&logoColor=white" alt="90% Merge Rate"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h4>👁️ PR Reviews</h4>
+        <img src="https://img.shields.io/badge/200%2B-Reviews-FFA500?style=for-the-badge&logo=github&logoColor=white" alt="200+ Reviews"/>
+      </td>
+      <td align="center">
+        <h4>💬 Discussions</h4>
+        <img src="https://img.shields.io/badge/150%2B-Started-9370DB?style=for-the-badge&logo=github&logoColor=white" alt="150+ Discussions"/>
+      </td>
+      <td align="center">
+        <h4>📈 Contributions</h4>
+        <img src="https://img.shields.io/badge/500%2B-This_Year-DC143C?style=for-the-badge&logo=github&logoColor=white" alt="500+ Contributions"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Featured Projects
