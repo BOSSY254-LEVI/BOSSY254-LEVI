@@ -65,13 +65,12 @@ https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo
 📊 GitHub Analytics Dashboard
 <div align="center">
 📈 Activity Overview
-https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
-https://github-readme-streak-stats.herokuapp.com/?user=bossy254-levi&theme=radical&hide_border=true&ring=6A11CB&fire=6A11CB&currStreakNum=6A11CB
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bossy254-levi&theme=radical&hide_border=true&ring=6A11CB&fire=6A11CB&currStreakNum=6A11CB" alt="Streak Stats"/>
 
 💻 Language Proficiency
-https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true&langs_count=8
-https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true&langs_count=8
-https://github-profile-trophy.vercel.app/?username=bossy254-levi&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img width="48%" src="https://github-profile-trophy.vercel.app/?username=bossy254-levi&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
 
 </div>
 🎯 Performance Metrics
@@ -110,7 +109,7 @@ A- Grade Developer	GitHub Analytics	🏅 Achieved	2024
 </div>
 📅 Development Activity
 <div align="center">
-https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=github-compact&hide_border=true&area=true&custom_title=Weekly%2520Development%2520Activity&area_color=6A11CB
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=github-compact&hide_border=true&area=true&custom_title=Weekly%2520Development%2520Activity&area_color=6A11CB" alt="Contribution Graph"/>
 
 </div>
 📞 Let's Connect & Collaborate
