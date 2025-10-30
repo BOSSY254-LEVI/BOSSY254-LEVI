@@ -147,8 +147,8 @@ console.log(myGame.startGame());
 
 | Metric | Status | Level |
 |--------|--------|-------|
-| Code Quality | ![A+ Grade](https://img.shields.io/badge/A%25252B_Grade-Excellent-32CD32?style=for-the-badge) | Expert |
-| Project Delivery | ![95% Success Rate](https://img.shields.io/badge/95%252525_Success_Rate-Outstanding-008080?style=for-the-badge) | Outstanding |
+| Code Quality | ![A+ Grade](https://img.shields.io/badge/A%2B_Grade-Excellent-32CD32?style=for-the-badge) | Expert |
+| Project Delivery | ![95% Success Rate](https://img.shields.io/badge/95%25_Success_Rate-Outstanding-008080?style=for-the-badge) | Outstanding |
 | Team Collaboration | ![Top Contributor](https://img.shields.io/badge/Top_Contributor-Leadership-FF6B6B?style=for-the-badge) | Leadership |
 | Problem Solving | ![Innovative Solutions](https://img.shields.io/badge/Innovative_Solutions-Creative-9370DB?style=for-the-badge) | Creative |
 | Gaming Skills | ![Snake Master](https://img.shields.io/badge/Snake_Master-247_Score-FFD700?style=for-the-badge) | Pro Gamer |
@@ -196,7 +196,7 @@ An organizational tool for efficient task management and team collaboration with
 ## 📅 Development Activity
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=github-compact&hide_border=true&area=true&custom_title=Weekly%2520Development%2520Activity&area_color=6A11CB" alt="Contribution Graph"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=github-compact&hide_border=true&area=true&custom_title=Weekly%20Development%20Activity&area_color=6A11CB" alt="Contribution Graph"/>
 </p>
 
 ## 📞 Let's Connect & Collaborate
@@ -229,7 +229,7 @@ I'm currently available for:
 <p align="center">
   🎉 Thanks for visiting my profile! <br/>
   <img src="https://komarev.com/ghpvc/?username=bossy254-levi&label=Profile+Views&color=6A11CB&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Updated-December%25202024-blue?style=flat-square" alt="Last Updated"/>
+  <img src="https://img.shields.io/badge/Updated-December%202024-blue?style=flat-square" alt="Last Updated"/>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80_Open_For_Opportunities-Available-32CD32?style=for-the-badge" alt="Open for Opportunities"/>
   <br/>
   <h4>"Let's turn ideas into exceptional digital experiences together!" ✨</h4>
