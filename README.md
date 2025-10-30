@@ -5,6 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I'm+Livingstone+Oduor+Otieno;+Senior+Full-Stack+Developer;+UI/UX+Specialist;+Problem+Solver;+Tech+Innovator+%F0%9F%9A%80" alt="Typing Animation"/>
 </p>
 
+<div align="center">
+  <!-- Snake Game Container -->
+  <h3>🎮 Play Snake Game While Exploring! 🐍</h3>
+  <img src="https://raw.githubusercontent.com/PKief/vscode-snake-game/main/snake-game.gif" width="600" height="300" alt="Snake Game"/>
+  <p><em>Use arrow keys to control the snake! Eat the food and grow longer! 🍎</em></p>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/bossy254-levi?style=social&label=Follow" alt="GitHub Followers"/>
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
@@ -18,6 +25,7 @@
 |---------|-------------|------------|
 | 🎯 About Me | Professional background & mission | [Jump ↓](#-about-me) |
 | 🛠️ Tech Stack | Technologies & proficiency | [Jump ↓](#️-tech-stack-mastery) |
+| 🎮 Interactive Game | Play Snake Game | [Jump ↓](#-play-snake-game) |
 | 📊 GitHub Stats | Analytics & contributions | [Jump ↓](#-github-analytics-dashboard) |
 | 🚀 Projects | Featured work & demos | [Jump ↓](#-featured-projects-showcase) |
 | 🏆 Achievements | Certifications & awards | [Jump ↓](#-achievements--certifications) |
@@ -35,7 +43,8 @@ const livingstone = {
   architecture: ["Full-Stack", "REST APIs", "Microservices", "PWAs"],
   passion: "Creating digital experiences that solve real-world problems",
   currentFocus: "Building scalable web applications & mentoring developers",
-  funFact: "I can debug production issues while drinking coffee ☕"
+  funFact: "I can debug production issues while drinking coffee ☕",
+  gamingSkills: "Snake Game High Score: 247 🐍"
 };
 ```
 
@@ -69,6 +78,57 @@ I'm a detail-oriented IT professional with extensive expertise in full-stack dev
   <img src="https://img.shields.io/badge/Docker-Intermediate-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
+## 🎮 Play Snake Game
+
+<div align="center">
+```javascript
+// Mini JavaScript Snake Game Demo
+class SnakeGame {
+  constructor() {
+    this.score = 0;
+    this.highScore = 247; // My personal best!
+    this.level = 'Beginner';
+  }
+  
+  startGame() {
+    return 'Use arrow keys to navigate the snake! 🎮';
+  }
+  
+  eatFood() {
+    this.score += 10;
+    return `Score: ${this.score} - Keep going! 🍎`;
+  }
+  
+  checkHighScore() {
+    if (this.score > this.highScore) {
+      return '🏆 New High Score! Amazing!';
+    }
+    return `Current High Score: ${this.highScore}`;
+  }
+}
+
+const myGame = new SnakeGame();
+console.log(myGame.startGame());
+```
+
+<h3>🐍 Snake Game Controls:</h3>
+<table>
+  <tr>
+    <td align="center">⬆️</td>
+    <td>Move Up</td>
+    <td align="center">⬇️</td>
+    <td>Move Down</td>
+  </tr>
+  <tr>
+    <td align="center">⬅️</td>
+    <td>Move Left</td>
+    <td align="center">➡️</td>
+    <td>Move Right</td>
+  </tr>
+</table>
+<p><strong>Pro Tip:</strong> The snake grows longer each time it eats food. Avoid walls and yourself!</p>
+</div>
+
 ## 📊 GitHub Analytics Dashboard
 
 ### 📈 Activity Overview
@@ -87,10 +147,11 @@ I'm a detail-oriented IT professional with extensive expertise in full-stack dev
 
 | Metric | Status | Level |
 |--------|--------|-------|
-| Code Quality | ![A+ Grade](https://img.shields.io/badge/A%252B_Grade-Excellent-32CD32?style=for-the-badge) | Expert |
-| Project Delivery | ![95% Success Rate](https://img.shields.io/badge/95%2525_Success_Rate-Outstanding-008080?style=for-the-badge) | Outstanding |
+| Code Quality | ![A+ Grade](https://img.shields.io/badge/A%25252B_Grade-Excellent-32CD32?style=for-the-badge) | Expert |
+| Project Delivery | ![95% Success Rate](https://img.shields.io/badge/95%252525_Success_Rate-Outstanding-008080?style=for-the-badge) | Outstanding |
 | Team Collaboration | ![Top Contributor](https://img.shields.io/badge/Top_Contributor-Leadership-FF6B6B?style=for-the-badge) | Leadership |
 | Problem Solving | ![Innovative Solutions](https://img.shields.io/badge/Innovative_Solutions-Creative-9370DB?style=for-the-badge) | Creative |
+| Gaming Skills | ![Snake Master](https://img.shields.io/badge/Snake_Master-247_Score-FFD700?style=for-the-badge) | Pro Gamer |
 
 ## 🚀 Featured Projects Showcase
 
@@ -102,6 +163,15 @@ I'm a detail-oriented IT professional with extensive expertise in full-stack dev
 
 A modern, responsive portfolio showcasing my projects and skills with smooth animations and optimized performance.
 ✨ **Features:** PWA • Dark/Light Mode • SEO Optimized • 95+ Lighthouse Score
+
+### 🎮 JavaScript Game Collection - Canvas • HTML5 • CSS3
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AE_Play_Now-Live_Demo-FF6B6B?style=for-the-badge" alt="Play Now"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%81_Source_Code-Repository-181717?style=for-the-badge&logo=github" alt="Source Code"/>
+</p>
+
+A collection of interactive browser games including Snake, Tic-Tac-Toe, and Memory Match.
+🎯 **Tech Stack:** Vanilla JavaScript • HTML5 Canvas • CSS Animations • Responsive Design
 
 ### 📊 Easy Track Organization - Full-Stack • MongoDB • Express
 <p align="center">
@@ -121,6 +191,7 @@ An organizational tool for efficient task management and team collaboration with
 | Database Design & SQL | Power Learn Project | ✅ Certified | 2024 |
 | A- Grade Developer | GitHub Analytics | 🏅 Achieved | 2024 |
 | 500+ Contributions | GitHub | 🎯 Completed | 2024 |
+| Snake Game Master | Personal Achievement | 🐍 High Score: 247 | 2024 |
 
 ## 📅 Development Activity
 
@@ -144,9 +215,16 @@ I'm currently available for:
 🚀 Full-Stack Development Projects  
 🎨 UI/UX Design Consultations  
 💡 Technical Mentoring & Code Reviews  
-🤝 Open Source Collaborations  
+🎮 Game Development Collaborations  
+🤝 Open Source Contributions  
 
 📞 **Response Time:** Usually within 2-4 hours
+
+### 🎯 Challenge Me!
+<p align="center">
+  <strong>Can you beat my Snake Game high score of 247? 🐍</strong><br/>
+  <em>Challenge accepted? Let's connect and share gaming tips! 🎮</em>
+</p>
 
 <p align="center">
   🎉 Thanks for visiting my profile! <br/>
@@ -158,5 +236,12 @@ I'm currently available for:
 </p>
 
 <p align="center">
-  ⭐ Don't forget to star my repositories if you find them interesting!
+  ⭐ Don't forget to star my repositories if you find them interesting!<br/>
+  🎮 And try beating my Snake Game high score! 🐍
 </p>
+
+<div align="center">
+  "Code, Create, Conquer - and occasionally play some Snake! 🐍"
+
+  ![Snake Animation](https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg)
+</div>
