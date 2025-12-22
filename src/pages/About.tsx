@@ -1,7 +1,7 @@
 import { Navigation } from '@/components/Navigation';
 import { Footer } from '@/components/Footer';
 import { StarCursor } from '@/components/StarCursor';
-import { AboutSection } from '@/components/AboutSection';
+
 import { CertificationsSection } from '@/components/CertificationsSection';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
@@ -15,7 +15,7 @@ import {
 } from 'lucide-react';
 
 import { motion } from 'framer-motion';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 const values = [
   {

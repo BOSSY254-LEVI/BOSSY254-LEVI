@@ -1,17 +1,12 @@
 import { useState } from 'react';
-import { useForm } from 'react-hook-form';
-import { zodResolver } from '@hookform/resolvers/zod';
-import { z } from 'zod';
-import emailjs from '@emailjs/browser';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
-import { Mail, Phone, MapPin, Send, Linkedin, Github, Twitter, Loader2 } from 'lucide-react';
+import { Mail, Phone, MapPin, Send, Linkedin, Github, Twitter } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { useIntersectionObserver } from '@/hooks/useIntersectionObserver';
-import { toast } from 'sonner';
 
 const contactInfo = [
   { icon: Mail, label: 'Email', value: 'livingstoneoduory@gmail.com', href: 'mailto:livingstoneoduory@gmail.com' },
@@ -162,7 +157,7 @@ export function ContactSection() {
               </div>
               <div className="space-y-2">
                 <label className="text-sm font-medium">Project Budget</label>
-                <Select value={formData.budget} onValueChange={(value) => setFormData({ ...formData, budget: value })}>
+                <Select value={formData.budget} onValueChange={(value: string) => setFormData({ ...formData, budget: value })}>
                   <SelectTrigger className="bg-secondary/50 border-border">
                     <SelectValue placeholder="Select Budget Range" />
                   </SelectTrigger>

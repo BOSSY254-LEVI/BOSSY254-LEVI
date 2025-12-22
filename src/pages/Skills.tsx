@@ -5,15 +5,16 @@ import { SkillsSection } from '@/components/SkillsSection';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Link } from 'react-router-dom';
-import { 
-  ArrowRight, Code, Server, Cloud, Palette, Shield, 
+import {
+  ArrowRight, Code, Server, Cloud, Palette, Shield,
   TestTube, Zap, Users, GitBranch, Database, Globe,
   Cpu, Terminal, Layers, Monitor, ShieldCheck, Rocket,
   BarChart, Wrench, Sparkles, Target, TrendingUp, Brain,
-  CheckCircle, ChevronRight, ArrowUp 
+  CheckCircle, ChevronRight, ArrowUp
 } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { useState } from 'react';
+
 
 const toolsAndTech = {
   'Languages': {
