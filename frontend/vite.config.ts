@@ -17,5 +17,13 @@ export default defineConfig({
     hmr: {
       port: 5173,
     },
+    // ADD THIS PROXY CONFIGURATION:
+    proxy: {
+      '/api': {
+        target: 'http://localhost:5000', // Your backend server
+        changeOrigin: true,
+        secure: false,
+      }
+    }
   },
 })

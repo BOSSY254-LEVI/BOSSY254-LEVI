@@ -1,4 +1,4 @@
-import { Navigation } from '@/components/Navigation';
+import Navigation from '@/components/Navigation';
 import { HeroSection } from '@/components/HeroSection';
 import { ImpactDashboard } from '@/components/ImpactDashboard';
 import { Footer } from '@/components/Footer';

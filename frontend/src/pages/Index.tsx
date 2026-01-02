@@ -1,6 +1,6 @@
 import { AnimatedBackground } from '@/components/AnimatedBackground';
 import { StarCursor } from '@/components/StarCursor';
-import { Navigation } from '@/components/Navigation';
+import Navigation from '@/components/Navigation';
 import { HeroSection } from '@/components/HeroSection';
 import { AboutSection } from '@/components/AboutSection';
 import { SkillsSection } from '@/components/SkillsSection';
