@@ -10,37 +10,159 @@
 
 ---
 
-<!-- 🎥 HERO SECTION -->
-<div align="center">
+## 📁 Project Structure
 
-<!-- Video (MP4) with fallback GIF -->
-<video autoplay loop muted playsinline style="max-width:100%;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.6);">
-  <source src="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/main/assets/visuals/hacker-lab.mp4" type="video/mp4" />
-  <img src="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/main/assets/visuals/hacker-lab.gif" alt="Dark Hacker Animation - Developer with multiple glowing screens" style="max-width:100%;border-radius:12px;" />
-</video>
-
-<p><em>A glimpse into my digital workspace — where creativity meets code.</em></p>
-
-</div>
+```
+.
+├── frontend/          # React + Vite SPA
+├── backend/           # Node.js Express API (NEW & IMPROVED)
+└── README.md          # This file
+```
 
 ---
 
-<div align="center">
+## 🎯 Backend Features (NEW!)
 
-<a href="https://github.com/BOSSY254-LEVI">
-  <img src="https://img.shields.io/github/followers/bossy254-levi?style=for-the-badge&logo=github&color=181717&labelColor=white" alt="GitHub Followers" />
-</a>
-<a href="https://www.linkedin.com/in/livingstone-oduor-451399397/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://bossy254-levi.github.io/BOSSY254-LEVI/">
-  <img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
-<a href="mailto:livingstoneoduory@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+The backend is now **production-ready** with enterprise-grade features:
 
-</div>
+### ✅ Contact Management
+- Form submission with validation
+- Confirmation emails to users
+- Admin notifications
+- Database storage in Supabase
+
+### ✅ Payment Processing
+- Paystack integration for secure payments
+- Multiple payment methods (cards, mobile money, bank transfers)
+- Payment verification and webhooks
+- Payment history and status tracking
+- Thank you emails for successful payments
+
+### ✅ Email Service
+- Professional HTML email templates
+- Namecheap private email integration
+- Automatic email sending on events
+
+### ✅ Security & Reliability
+- Rate limiting (100 requests per 15 min)
+- CORS protection
+- Input validation with Zod
+- Webhook signature verification
+- Helmet security headers
+- Winston logging system
+- Graceful error handling
+
+### ✅ API Documentation
+- 10+ fully documented endpoints
+- RESTful design
+- Comprehensive error handling
+
+---
+
+## 🚀 Quick Start
+
+### Backend Setup (5 minutes)
+
+```bash
+cd backend
+npm install
+cp .env.example .env
+# Edit .env with your credentials
+npm run dev
+```
+
+See [backend/QUICK_START.md](backend/QUICK_START.md) for detailed setup.
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
+---
+
+## 📚 Documentation
+
+### Backend
+- [QUICK_START.md](backend/QUICK_START.md) - Get started in 5 minutes
+- [BACKEND_SETUP.md](backend/BACKEND_SETUP.md) - Complete setup guide
+- [IMPLEMENTATION_CHECKLIST.md](backend/IMPLEMENTATION_CHECKLIST.md) - What was fixed
+
+### Frontend
+- [frontend/README.md](frontend/README.md) - Frontend documentation
+
+---
+
+## 🔗 API Endpoints
+
+### Base URL
+- Development: `http://localhost:5000`
+- Production: `https://api.yourdomain.com`
+
+### Contact Endpoints
+```
+POST   /api/contact              # Submit contact form
+GET    /api/contact              # Get all contacts
+DELETE /api/contact/:id          # Delete contact
+```
+
+### Payment Endpoints
+```
+POST   /api/payment/initiate     # Start payment (redirect to Paystack)
+POST   /api/payment/simple       # Simple payment flow
+GET    /api/payment/verify/:ref  # Verify payment status
+GET    /api/payment/status/:ref  # Get payment from DB
+POST   /api/payment/webhook      # Paystack webhook
+GET    /api/payment/all          # Get all payments
+```
+
+### Health Check
+```
+GET    /health                   # API status
+```
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- **React** + **TypeScript**
+- **Vite** - Lightning fast builds
+- **Tailwind CSS** - Beautiful styling
+- **Shadcn/ui** - Component library
+
+### Backend
+- **Node.js** + **Express**
+- **TypeScript** - Type safety
+- **Supabase** - PostgreSQL database
+- **Paystack** - Payment processing
+- **Nodemailer** - Email service
+- **Zod** - Input validation
+- **Winston** - Logging
+
+---
+
+## 🔐 Credentials Needed
+
+### Required (Get Free)
+1. **Supabase** - PostgreSQL database
+2. **Paystack** - Payment processor (Kenya)
+3. **Email Service** - Namecheap private email or Gmail
+
+### Optional
+- Custom domain
+- Vercel/Heroku for hosting
+
+---
+
+## 📧 Contact & Support
+
+**Your Email:** livingstoneoduory@gmail.com  
+**GitHub:** https://github.com/BOSSY254-LEVI  
+**LinkedIn:** https://www.linkedin.com/in/livingstone-oduor-451399397/  
+**Portfolio:** https://livingstoneoduor.online  
 
 ---
 

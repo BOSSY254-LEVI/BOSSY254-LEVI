@@ -1,25 +1,19 @@
 import { useState } from 'react';
 import { Button } from '@/components/ui/button';
-import { Input } from '@/components/ui/input';
-import { Label } from '@/components/ui/label';
-import { Coffee, Loader2 } from 'lucide-react';
-import axios from 'axios';
+import { Coffee } from 'lucide-react';
+import { PaystackButton } from 'react-paystack';
 import {
   Dialog,
   DialogContent,
   DialogDescription,
-  DialogFooter,
   DialogHeader,
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
 
 export function BuyMeCoffee() {
-  const [isLoading, setIsLoading] = useState(false);
   const [isDialogOpen, setIsDialogOpen] = useState(false);
-  const [amount, setAmount] = useState(500); // Default amount
-  const [email, setEmail] = useState('');
-  const [message, setMessage] = useState('');
+  const [amount, setAmount] = useState(500); // Amount in KES
 
   const coffeeOptions = [
     { amount: 200, label: '☕ Small Coffee', emoji: '☕' },
@@ -29,40 +23,33 @@ export function BuyMeCoffee() {
     { amount: 5000, label: '🍔 Coffee & Meal', emoji: '🍔' },
   ];
 
-  const handleBuyCoffee = async () => {
-    if (!email) {
-      alert('Please enter your email address');
-      return;
-    }
-
-    setIsLoading(true);
-    try {
-      const response = await axios.post('/api/payment/initiate', {
-        email: email,
-        amount: amount,
-        description: message || 'Buy me a coffee',
-      });
-
-      console.log('Payment response:', response.data);
-
-      // Handle different response structures
-      const authUrl = response.data?.data?.authorization_url || 
-                     response.data?.authorization_url || 
-                     response.data?.url;
-
-      if (authUrl) {
-        window.location.href = authUrl;
-      } else {
-        console.error('No authorization URL found:', response.data);
-        alert('Payment initiated! Check your email for payment link.');
-        setIsDialogOpen(false);
-      }
-    } catch (error: any) {
-      console.error('Failed to initiate payment:', error);
-      alert(error.response?.data?.message || 'Failed to initiate payment. Please try again.');
-    } finally {
-      setIsLoading(false);
-    }
+  // Paystack configuration - Use your PUBLIC KEY from .env
+  const publicKey = import.meta.env.VITE_PAYSTACK_PUBLIC_KEY;
+  const componentProps = {
+    email: "supporter@example.com", // In a real app, you might collect this
+    amount: amount * 100, // Paystack expects amount in kobo (multiply by 100)
+    metadata: {
+      custom_fields: [
+        {
+          display_name: "Donation For",
+          variable_name: "donation_for",
+          value: "Portfolio Support",
+        }
+      ]
+    },
+    publicKey,
+    text: `Pay KES ${amount}`,
+    onSuccess: (reference: any) => {
+      // Payment was successful!
+      console.log('Payment successful!', reference);
+      alert(`Thank you for your support! Transaction reference: ${reference.reference}`);
+      setIsDialogOpen(false); // Close the dialog
+      // Here you can call your backend to verify the payment
+    },
+    onClose: () => {
+      // User closed the payment modal
+      alert("Payment was canceled. You can try again anytime!");
+    },
   };
 
   return (
@@ -81,17 +68,17 @@ export function BuyMeCoffee() {
         <DialogHeader>
           <DialogTitle className="flex items-center gap-2">
             <Coffee className="w-5 h-5" />
-            Support my work
+            Quick Support
           </DialogTitle>
           <DialogDescription>
-            Your support helps me continue creating amazing content. Thank you! 💛
+            Choose an amount and pay securely in one step.
           </DialogDescription>
         </DialogHeader>
 
         <div className="space-y-6 py-4">
-          {/* Coffee Options */}
+          {/* Coffee Options - Simplified */}
           <div className="space-y-3">
-            <Label>Choose your coffee</Label>
+            <p className="text-sm font-medium">Choose your support</p>
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-2">
               {coffeeOptions.map((option) => (
                 <Button
@@ -114,77 +101,17 @@ export function BuyMeCoffee() {
             </div>
           </div>
 
-          {/* Custom Amount */}
-          <div className="space-y-2">
-            <Label htmlFor="custom-amount">Or custom amount (KES)</Label>
-            <Input
-              id="custom-amount"
-              type="number"
-              min="100"
-              step="100"
-              value={amount}
-              onChange={(e) => setAmount(Number(e.target.value))}
-              className="text-center text-lg"
+          {/* Direct Payment Button */}
+          <div className="pt-4">
+            <PaystackButton 
+              {...componentProps}
+              className="w-full flex justify-center items-center gap-2 bg-green-600 hover:bg-green-700 text-white font-medium py-3 px-4 rounded-md transition-colors"
             />
-            <p className="text-xs text-muted-foreground">
-              Minimum: KES 100
+            <p className="text-xs text-center text-muted-foreground mt-2">
+              You'll be prompted for card or MPESA details. It's secure and fast.
             </p>
           </div>
-
-          {/* Email Input */}
-          <div className="space-y-2">
-            <Label htmlFor="email">Email for receipt</Label>
-            <Input
-              id="email"
-              type="email"
-              placeholder="your.email@example.com"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              required
-            />
-          </div>
-
-          {/* Optional Message */}
-          <div className="space-y-2">
-            <Label htmlFor="message">Optional message (optional)</Label>
-            <Input
-              id="message"
-              type="text"
-              placeholder="Keep up the great work! 🚀"
-              value={message}
-              onChange={(e) => setMessage(e.target.value)}
-            />
-          </div>
         </div>
-
-        <DialogFooter className="flex-col sm:flex-row gap-2">
-          <Button
-            type="button"
-            variant="outline"
-            onClick={() => setIsDialogOpen(false)}
-            className="w-full sm:w-auto"
-          >
-            Cancel
-          </Button>
-          <Button
-            type="button"
-            onClick={handleBuyCoffee}
-            disabled={isLoading || !email}
-            className="w-full sm:w-auto bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-700 hover:to-amber-800"
-          >
-            {isLoading ? (
-              <>
-                <Loader2 className="mr-2 h-4 w-4 animate-spin" />
-                Processing...
-              </>
-            ) : (
-              <>
-                <Coffee className="mr-2 h-4 w-4" />
-                Support with KES {amount}
-              </>
-            )}
-          </Button>
-        </DialogFooter>
       </DialogContent>
     </Dialog>
   );

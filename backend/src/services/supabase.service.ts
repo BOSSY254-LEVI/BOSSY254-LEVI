@@ -72,6 +72,52 @@ class SupabaseService {
     if (error) throw error;
     return data;
   }
+
+  async updatePaymentStatusByReference(reference: string, status: string, notes?: string) {
+    const updateData: any = { status };
+    if (notes) updateData.notes = notes;
+
+    const { data, error } = await this.client
+      .from('payments')
+      .update(updateData)
+      .eq('reference', reference)
+      .select()
+      .single();
+
+    if (error) throw error;
+    return data;
+  }
+
+  async deleteContact(id: string) {
+    const { error } = await this.client
+      .from('contacts')
+      .delete()
+      .eq('id', id);
+
+    if (error) throw error;
+    return { success: true };
+  }
+
+  async getPaymentsByEmail(email: string) {
+    const { data, error } = await this.client
+      .from('payments')
+      .select('*')
+      .eq('email', email)
+      .order('created_at', { ascending: false });
+
+    if (error) throw error;
+    return data;
+  }
+
+  async getAllPayments() {
+    const { data, error } = await this.client
+      .from('payments')
+      .select('*')
+      .order('created_at', { ascending: false });
+
+    if (error) throw error;
+    return data;
+  }
 }
 
 export const supabaseService = new SupabaseService();
