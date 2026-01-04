@@ -10,6 +10,7 @@
 
 ---
 
+<<<<<<< HEAD
 ## 📁 Project Structure
 
 ```
@@ -163,6 +164,39 @@ GET    /health                   # API status
 **GitHub:** https://github.com/BOSSY254-LEVI  
 **LinkedIn:** https://www.linkedin.com/in/livingstone-oduor-451399397/  
 **Portfolio:** https://livingstoneoduor.online  
+=======
+<!-- 🎥 HERO SECTION -->
+<div align="center">
+
+<!-- Video (MP4) with fallback GIF -->
+<video autoplay loop muted playsinline style="max-width:100%;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.6);">
+  <source src="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/main/assets/visuals/hacker-lab.mp4" type="video/mp4" />
+  <img src="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/main/assets/visuals/hacker-lab.gif" alt="Dark Hacker Animation - Developer with multiple glowing screens" style="max-width:100%;border-radius:12px;" />
+</video>
+
+<p><em>A glimpse into my digital workspace — where creativity meets code.</em></p>
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/BOSSY254-LEVI">
+  <img src="https://img.shields.io/github/followers/bossy254-levi?style=for-the-badge&logo=github&color=181717&labelColor=white" alt="GitHub Followers" />
+</a>
+<a href="https://www.linkedin.com/in/livingstone-oduor-451399397/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://bossy254-levi.github.io/BOSSY254-LEVI/">
+  <img src="https://img.shields.io/badge/Portfolio-6A11CB?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:livingstoneoduory@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+>>>>>>> d56924ba57202c41132df4c7fbf6462c933db6d0
 
 ---
 
