@@ -8,178 +8,6 @@
   />
 </p>
 
----
-
-<<<<<<< HEAD
-## 📁 Project Structure
-
-```
-.
-├── frontend/          # React + Vite SPA
-├── backend/           # Node.js Express API (NEW & IMPROVED)
-└── README.md          # This file
-```
-
----
-
-## 🎯 Backend Features (NEW!)
-
-The backend is now **production-ready** with enterprise-grade features:
-
-### ✅ Contact Management
-- Form submission with validation
-- Confirmation emails to users
-- Admin notifications
-- Database storage in Supabase
-
-### ✅ Payment Processing
-- Paystack integration for secure payments
-- Multiple payment methods (cards, mobile money, bank transfers)
-- Payment verification and webhooks
-- Payment history and status tracking
-- Thank you emails for successful payments
-
-### ✅ Email Service
-- Professional HTML email templates
-- Namecheap private email integration
-- Automatic email sending on events
-
-### ✅ Security & Reliability
-- Rate limiting (100 requests per 15 min)
-- CORS protection
-- Input validation with Zod
-- Webhook signature verification
-- Helmet security headers
-- Winston logging system
-- Graceful error handling
-
-### ✅ API Documentation
-- 10+ fully documented endpoints
-- RESTful design
-- Comprehensive error handling
-
----
-
-## 🚀 Quick Start
-
-### Backend Setup (5 minutes)
-
-```bash
-cd backend
-npm install
-cp .env.example .env
-# Edit .env with your credentials
-npm run dev
-```
-
-See [backend/QUICK_START.md](backend/QUICK_START.md) for detailed setup.
-
-### Frontend Setup
-
-```bash
-cd frontend
-npm install
-npm run dev
-```
-
----
-
-## 📚 Documentation
-
-### Backend
-- [QUICK_START.md](backend/QUICK_START.md) - Get started in 5 minutes
-- [BACKEND_SETUP.md](backend/BACKEND_SETUP.md) - Complete setup guide
-- [IMPLEMENTATION_CHECKLIST.md](backend/IMPLEMENTATION_CHECKLIST.md) - What was fixed
-
-### Frontend
-- [frontend/README.md](frontend/README.md) - Frontend documentation
-
----
-
-## 🔗 API Endpoints
-
-### Base URL
-- Development: `http://localhost:5000`
-- Production: `https://api.yourdomain.com`
-
-### Contact Endpoints
-```
-POST   /api/contact              # Submit contact form
-GET    /api/contact              # Get all contacts
-DELETE /api/contact/:id          # Delete contact
-```
-
-### Payment Endpoints
-```
-POST   /api/payment/initiate     # Start payment (redirect to Paystack)
-POST   /api/payment/simple       # Simple payment flow
-GET    /api/payment/verify/:ref  # Verify payment status
-GET    /api/payment/status/:ref  # Get payment from DB
-POST   /api/payment/webhook      # Paystack webhook
-GET    /api/payment/all          # Get all payments
-```
-
-### Health Check
-```
-GET    /health                   # API status
-```
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-- **React** + **TypeScript**
-- **Vite** - Lightning fast builds
-- **Tailwind CSS** - Beautiful styling
-- **Shadcn/ui** - Component library
-
-### Backend
-- **Node.js** + **Express**
-- **TypeScript** - Type safety
-- **Supabase** - PostgreSQL database
-- **Paystack** - Payment processing
-- **Nodemailer** - Email service
-- **Zod** - Input validation
-- **Winston** - Logging
-
----
-
-## 🔐 Credentials Needed
-
-### Required (Get Free)
-1. **Supabase** - PostgreSQL database
-2. **Paystack** - Payment processor (Kenya)
-3. **Email Service** - Namecheap private email or Gmail
-
-### Optional
-- Custom domain
-- Vercel/Heroku for hosting
-
----
-
-## 📧 Contact & Support
-
-**Your Email:** livingstoneoduory@gmail.com  
-**GitHub:** https://github.com/BOSSY254-LEVI  
-**LinkedIn:** https://www.linkedin.com/in/livingstone-oduor-451399397/  
-**Portfolio:** https://livingstoneoduor.online  
-=======
-<!-- 🎥 HERO SECTION -->
-<div align="center">
-
-<!-- Video (MP4) with fallback GIF -->
-<video autoplay loop muted playsinline style="max-width:100%;border-radius:12px;box-shadow:0 8px 24px rgba(0,0,0,0.6);">
-  <source src="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/main/assets/visuals/hacker-lab.mp4" type="video/mp4" />
-  <img src="https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/main/assets/visuals/hacker-lab.gif" alt="Dark Hacker Animation - Developer with multiple glowing screens" style="max-width:100%;border-radius:12px;" />
-</video>
-
-<p><em>A glimpse into my digital workspace — where creativity meets code.</em></p>
-
-</div>
-
----
-
 <div align="center">
 
 <a href="https://github.com/BOSSY254-LEVI">
@@ -196,7 +24,6 @@ GET    /health                   # API status
 </a>
 
 </div>
->>>>>>> d56924ba57202c41132df4c7fbf6462c933db6d0
 
 ---
 
@@ -248,29 +75,44 @@ My approach blends **engineering precision** with **user-centered design**, ensu
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bossy254-levi&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bossy254-levi&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bossy254-levi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 💼 Featured Projects
+## 📈 Activity Graph
 
-**🎨 Portfolio Website**  
-🧩 *Stack:* React, TypeScript, Tailwind  
-🔗 [Visit Live Portfolio](https://bossy254-levi.github.io/BOSSY254-LEVI/)
-
-**📊 Easy Track Organization Platform**  
-🚀 *Stack:* MERN, JWT Auth, Real-Time Updates  
-🔗 [View Repository](https://github.com/BOSSY254-LEVI)
-
-**🧠 Component UI System**  
-💡 *Stack:* Storybook, Jest, Accessibility (WCAG AA)  
-🔗 [Docs & Demo](#)
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=github-compact&hide_border=true&area=true&custom_title=Weekly%20Development%20Activity" />
+</div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bossy254-levi&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📂 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/BOSSY254-LEVI/BOSSY254-LEVI">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BOSSY254-LEVI&repo=BOSSY254-LEVI&theme=radical&show_owner=true" />
+  </a>
+</div>
+
+---
+
+## 🏅 Achievements & Certifications
+
 | Achievement | Organization | Year | Status |
 |--------------|--------------|------|---------|
 | Full Stack Web Developer | Power Learn Project | 2024 | ✅ Certified |
@@ -278,13 +120,6 @@ My approach blends **engineering precision** with **user-centered design**, ensu
 | Database Design & SQL | Power Learn Project | 2024 | ✅ Certified |
 | GitHub A-Grade Developer | GitHub Analytics | 2024 | 🏅 Achieved |
 | Open Source Contributor | Community | 2024 | 🌟 Active |
-
----
-
-## 📈 Development Activity
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=github-compact&hide_border=true&area=true&custom_title=Weekly%20Development%20Activity" />
-</div>
 
 ---
 
@@ -300,9 +135,22 @@ My approach blends **engineering precision** with **user-centered design**, ensu
 ---
 
 <div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=BOSSY254-LEVI&color=blueviolet&style=flat-square)
+  
   <h3>🚀 Ready to Build Something Amazing?</h3>
-  <p>Let’s turn your vision into exceptional digital experiences.</p>
-  ⭐ Star my repositories if you find them inspiring!  
-  🌱 Always exploring new technologies and frameworks.  
+  <p>Let's turn your vision into exceptional digital experiences.</p>
+  
+  ⭐ **Star my repositories if you find them inspiring!**  
+  🌱 **Always exploring new technologies and frameworks.**  
+  💬 **Feel free to reach out for collaboration!**
+  
 </div>
 
+---
+
+<div align="center">
+  
+  <sub><sup>Last Updated: November 2024 | Generated with ❤️ and GitHub Actions</sup></sub>
+  
+</div>
