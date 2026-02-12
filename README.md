@@ -370,14 +370,41 @@ pie
     "Open Source" : 8
 ```
 
-### 🏆 **ACHIEVEMENT UNLOCKED**
+## 📊 DYNAMIC METRICS DASHBOARD
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=bossy254-levi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+<div align="center">
+<br>
 
-### 📈 **CONTRIBUTION GALAXY**
+### 📊 CONTRIBUTION STATISTICS
 
-![GitHub 3D Contribution](https://raw.githubusercontent.com/BOSSY254-LEVI/BOSSY254-LEVI/main/profile-3d-contrib/profile-green-animate.svg)
+| **METRIC** | **VALUE** | **ACHIEVEMENT** |
+|:----------:|:---------:|:---------------:|
+| 🟢 **Total Contributions** | 1,500+ | Top 8% |
+| 🔥 **Current Streak** | 45 days | Top 5% |
+| ⭐ **Stars Earned** | 320+ | Top 12% |
+| 📦 **Repositories** | 45+ | Top 15% |
+| 👥 **Followers** | 180+ | Top 10% |
 
+<br>
+
+### 📈 CONTRIBUTION GRAPH
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bossy254-levi&theme=react-dark&bg_color=0D1117&color=6A11CB&line=2575FC&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+
+### 🎯 STREAK STATISTICS
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bossy254-levi&theme=radical&hide_border=true&card_width=800)](https://git.io/streak-stats)
+
+<br>
+
+### 🌟 3D CONTRIBUTION VISUALIZATION
+
+<details>
+<summary><b>🔮 Click to view 3D Contribution Setup</b></summary>
+<br>
+    
 ### ⚡ **REAL-TIME ACTIVITY**
 
 <!--START_SECTION:waka-->
@@ -448,14 +475,6 @@ graph LR
 </div>
 
 ---
-
-## 🎭 **INTERACTIVE CONTRIBUTION MAP**
-
-<div align="center">
-
-### 🌍 **Global Impact Heatmap**
-
-[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=bossy254-levi&theme=react-dark&bg_color=0D1117&color=6A11CB&line=2575FC&point=FFFFFF&area=true&hide_border=true)](https://github.com/BOSSY254-LEVI)
 
 ### 🎪 **Project Ecosystem**
 
@@ -568,17 +587,65 @@ mindmap
 
 ## 🎯 **FINAL BOSS CHALLENGE**
 
-> *"Your next great project is just a commit away. Let's build something that matters."*
+<div align="center">
 
-```javascript
-while(alive) {
-  eat();
-  code();
-  sleep();
-  repeat();
-}
-// Livingstone's Development Lifecycle 🐍
-```
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=2&width=800" width="100%"/>
+
+<br>
+
+> *"Your next great project is just a commit away.*  
+> *Let's build something that matters."*  
+> **— Livingstone Oduor**
+
+<br>
+
+| **STAGE** | **ACTIVITY** | **DURATION** | **ENERGY** | **STATUS** |
+|:--------:|:-----------:|:-----------:|:---------:|:---------:|
+| **1** | 🍽️ **Fuel Up** | 30 min | ⚡⚡⚡⚡⚡ | ![Done](https://img.shields.io/badge/-Daily-2EA043?style=flat-square) |
+| **2** | 💻 **Code** | 8 hours | ⚡⚡⚡⚡⚡ | ![Active](https://img.shields.io/badge/-In_Progress-6A11CB?style=flat-square) |
+| **3** | 😴 **Recharge** | 7 hours | ⚡⚡⚡⚡⚡ | ![Pending](https://img.shields.io/badge/-Night-FF6B6B?style=flat-square) |
+| **4** | 🔄 **Repeat** | ∞ | ⚡⚡⚡⚡⚡ | ![Loop](https://img.shields.io/badge/-Infinite-2575FC?style=flat-square) |
+
+<br>
+
+### 📊 **LIFETIME STATISTICS**
+
+┌────────────────────────────────────────────────────────────────┐
+│ ☕ Coffee Consumed: 4,872 cups │
+│ 💻 Lines Written: 250,000+ │
+│ 🐛 Bugs Fixed: 1,234 │
+│ 🎵 Jazz Hours: 1,500+ │
+│ 🚀 Projects Shipped: 45+ │
+└────────────────────────────────────────────────────────────────┘
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=while(alive)+%7B+eat();+code();+sleep();+repeat();+%7D;+//+🐍" alt="Typing SVG" />
+</p>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,24&height=2&width=800" width="100%"/>
+
+### ⭐ **Ready to start your next commit?**
+
+<p align="center">
+  <a href="https://github.com/BOSSY254-LEVI?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_VIEW_MY_WORK-6A11CB?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="mailto:livingstoneoduory@gmail.com">
+    <img src="https://img.shields.io/badge/📧_START_A_PROJECT-2575FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://calendly.com">
+    <img src="https://img.shields.io/badge/📅_SCHEDULE_CALL-2EA043?style=for-the-badge&logo=googlecalendar&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
+━━━━━━━━━━━━━━━━━━━━━━ [ COMMIT • PUSH • DEPLOY ] ━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+
 
 **⭐ Star this journey • 🍴 Fork your own path • 🔄 Return for updates**
 
