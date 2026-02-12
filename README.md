@@ -73,6 +73,22 @@
 
 </div>
 
+### 🎬 **MOTION DESIGN SHOWCASE**
+
+<div align="center">
+
+<!-- Animated Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" />
+
+<!-- Floating Tech Icons - Static but look animated -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="PC" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Phone" width="50" height="50" />
+</p>
+
+</div>
+
 ### 🎨 **3D TECH STACK VISUALIZATION**
 
 <div align="center">
@@ -507,25 +523,8 @@ mindmap
 
 ---
 
-### 🎬 **MOTION DESIGN SHOWCASE**
+</div
 
-<div align="center">
-
-<!-- Animated Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" />
-
-<!-- Floating Tech Icons - Static but look animated -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="PC" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Phone" width="50" height="50" />
-</p>
-
-*✨ Hover effects not supported on GitHub - but here's a cool animation! ✨*
-
-</div>
-
-</div>
 
 ---
 
