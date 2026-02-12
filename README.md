@@ -488,25 +488,24 @@ mindmap
 
 ---
 
-## 🎬 **MOTION DESIGN SHOWCASE**
+### 🎬 **MOTION DESIGN SHOWCASE**
 
 <div align="center">
 
-### **CSS Animation Gallery**
+<!-- Animated Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="200" />
 
-```css
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-20px); }
-  100% { transform: translateY(0px); }
-}
+<!-- Floating Tech Icons - Static but look animated -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="PC" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="Phone" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee.png" alt="Coffee" width="50" height="50" />
+</p>
 
-.tech-stack:hover {
-  animation: float 3s ease-in-out infinite;
-  transform: scale(1.1);
-  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-}
-```
+*✨ Hover effects not supported on GitHub - but here's a cool animation! ✨*
+
+</div>
 
 </div>
 
