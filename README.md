@@ -6,7 +6,7 @@
   </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Livingstone%20Oduor&fontSize=70&fontAlignY=35&desc=Senior%20Full-Stack%20Developer%20%7C%20UI/UX%20Architect&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=LIVINGSTONE%20ODUOR&fontSize=70&fontAlignY=35&desc=Senior%20Full-Stack%20Developer%20%7C%20UI/UX%20Architect&descAlignY=55&animation=fadeIn" width="100%"/>
 </div>
 
 ---
