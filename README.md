@@ -1,6 +1,9 @@
 ---
 
 ## 🎬 **CINEMATIC PROFILE INTRODUCTION**
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="50" height="50" />
+  </p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=200&section=header&text=Livingstone%20Oduor&fontSize=70&fontAlignY=35&desc=Senior%20Full-Stack%20Developer%20%7C%20UI/UX%20Architect&descAlignY=55&animation=fadeIn" width="100%"/>
@@ -73,37 +76,256 @@
 ### 🎨 **3D TECH STACK VISUALIZATION**
 
 <div align="center">
+  
+<!-- Tech Stack Cards with 3D Hover Effect -->
+<p align="center">
+  <img src="https://img.shields.io/badge/FRONTEND-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/BACKEND-000000?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/CLOUD-000000?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/DATABASE-000000?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/DEVOPS-000000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" />
+</p>
 
-```
-🌐  FRONTEND    ⚙️  BACKEND     ☁️  CLOUD       🗄️  DATABASE     🎯  DEVOPS
-   React          Node.js        AWS           PostgreSQL     Docker
-   Next.js        Python         Azure         MongoDB        K8s
-   TypeScript     Django         GCP           Redis          Terraform
-   Tailwind       FastAPI        Vercel        Elasticsearch  GitHub Actions
-```
-
-</div>
-
-
-## 🎯 **PROFESSIONAL SYNOPSIS**
+## 🎨 **INTERACTIVE TECH STACK**
 
 <div align="center">
 
-```javascript
-const livingstone = {
-  title: "Senior Full-Stack Developer & UI/UX Architect",
-  philosophy: "Great software transcends code—it creates experiences that resonate",
-  currentFocus: "Building AI-powered SaaS platforms with 10x developer experience",
-  lookingToCollaborate: ["Open Source", "Startup MVPs", "Architecture Consulting"],
-  funFact: "I debug with jazz music and design with coffee ☕🎵",
-  status: "🟢 Available for architectural reviews",
-  superpower: "Translating business complexity into elegant technical solutions"
-};
+### ⚡ **3D SKILL MATRIX** 
+*(Hover to rotate - GitHub doesn't support 3D, but we can simulate!)*
+
+<br>
+
+<!-- Row 1: Frontend -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+<!-- Row 2: Backend -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+<!-- Row 3: Cloud -->
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
+
+<!-- Row 4: Database -->
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
+
+<!-- Row 5: DevOps -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+### 📊 **SKILL PROFICIENCY HEATMAP**
+```
+FRONTEND    ████████████████████░ 95%  ████ React/Next.js
+BACKEND     ████████████████████░ 95%  ████ Node.js/Python
+CLOUD       ██████████████████░░░ 85%  ████ AWS/Azure/GCP
+DATABASE    ██████████████████░░░ 85%  ████ SQL/NoSQL
+DEVOPS      ████████████████░░░░░ 80%  ████ Docker/K8s
+DESIGN      ███████████████████░░ 90%  ████ Figma/Adobe XD
 ```
 
 </div>
 
 ---
+
+## 🎯 **PROFESSIONAL IDENTITY**
+
+<div align="center">
+
+<!-- Matrix-style Digital Identity Card -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=SYSTEM:BOOTING...;LOADING:LIVINGSTONE_PROFILE...;ACCESS:GRANTED;WELCOME:+ARCHITECT" alt="Matrix" />
+
+<br>
+
+```diff
++ ██████╗ ███████╗██╗   ██╗███████╗██╗      ██████╗ ██████╗ ███████╗██████╗ +
++ ██╔══██╗██╔════╝██║   ██║██╔════╝██║     ██╔═══██╗██╔══██╗██╔════╝██╔══██╗+
++ ██║  ██║█████╗  ██║   ██║█████╗  ██║     ██║   ██║██████╔╝█████╗  ██████╔╝+
++ ██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     ██║   ██║██╔══██╗██╔══╝  ██╔══██╗+
++ ██████╔╝███████╗ ╚████╔╝ ███████╗███████╗╚██████╔╝██║  ██║███████╗██║  ██║+
++ ╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝+
+                                                                            
+███████╗██╗   ██╗██╗     ██╗     ███████╗████████╗ █████╗  ██████╗██╗  ██╗
+██╔════╝██║   ██║██║     ██║     ██╔════╝╚══██╔══╝██╔══██╗██╔════╝██║ ██╔╝
+█████╗  ██║   ██║██║     ██║     █████╗     ██║   ███████║██║     █████╔╝ 
+██╔══╝  ██║   ██║██║     ██║     ██╔══╝     ██║   ██╔══██║██║     ██╔═██╗ 
+██║     ╚██████╔╝███████╗███████╗███████╗   ██║   ██║  ██║╚██████╗██║  ██╗
+╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+```
+
+<br>
+
+<!-- Animated Profile Card with Glow Effect -->
+<table>
+  <tr>
+    <td width="60%" style="border: 2px solid #6A11CB; border-radius: 15px; padding: 20px;">
+      
+---
+<!-- Professional Profile as Shields.io Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/👤_Name-Livingstone_Oduor_Otieno-6A11CB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💼_Role-Senior_Full--Stack_Developer-2575FC?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯_Mission-AI_SaaS_Platforms-2EA043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤝_Open_To-Open_Source_•_MVPs_•_Consulting-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Status-AVAILABLE-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🐙_GitHub-BOSSY254--LEVI-181717?style=for-the-badge" />
+</p>
+
+<!-- Live Status Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-ACTIVE-2EA043?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Mood-Creative-FF69B4?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/IDE-VS_Code-007ACC?style=flat-square&labelColor=black" />
+  <img src="https://img.shields.io/badge/Coffee-Level_☕☕☕-6A11CB?style=flat-square&labelColor=black" />
+</p>
+
+</div>
+
+---
+
+### 🎯 **SKILL MATRIX 3D VIEW**
+
+<div align="center">
+  
+<!-- Frontend Stack -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind&theme=dark" />
+  </a>
+</p>
+
+<!-- Backend Stack -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,py,django,fastapi&theme=dark" />
+  </a>
+</p>
+
+<!-- Cloud Stack -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,vercel&theme=dark" />
+  </a>
+</p>
+
+<!-- Database Stack -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,elasticsearch&theme=dark" />
+  </a>
+</p>
+
+<!-- DevOps Stack -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions&theme=dark" />
+  </a>
+</p>
+
+</div>
+
+## 🎯 **PROFESSIONAL SYNOPSIS**
+
+<div align="center">
+  
+<!-- Professional Card Container -->
+<div style="border: 2px solid #6A11CB; border-radius: 15px; padding: 20px; background: linear-gradient(145deg, #0D1117, #1a1e24); width: 90%; margin: 0 auto;">
+    
+  <!-- Name Title -->
+  <h2 align="center" style="color: #6A11CB; font-family: monospace;">
+    ════════ 🚀 LIVINGSTONE ODUOR 🚀 ════════
+  </h2>
+  
+  <!-- Role Badge -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Senior_Full--Stack_Developer_&_UI/UX_Architect-6A11CB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </p>
+  
+  <!-- Philosophy -->
+  <p align="center">
+    <i>"Great software transcends code—it creates experiences that resonate"</i>
+  </p>
+  
+  <br>
+  
+  <!-- Two Column Layout -->
+  <table align="center" border="0" cellpadding="10" cellspacing="0">
+    <tr>
+      <td width="50%" valign="top" align="left">
+        <b>🎯 CURRENT FOCUS:</b><br>
+        Building AI-powered SaaS platforms with 10x developer experience
+        <br><br>
+        <b>🤝 COLLABORATION:</b><br>
+        • 🔥 Open Source<br>
+        • 🚀 Startup MVPs<br>
+        • 🏗️ Architecture Consulting
+        <br><br>
+        <b>⚡ STATUS:</b><br>
+        🟢 Available for architectural reviews
+      </td>
+      <td width="50%" valign="top" align="left">
+        <b>🎵 FUN FACT:</b><br>
+        I debug with jazz music and design with coffee ☕🎵
+        <br><br>
+        <b>🦸 SUPERPOWER:</b><br>
+        Translating business complexity into elegant technical solutions
+        <br><br>
+        <b>🐙 GITHUB:</b><br>
+        <a href="https://github.com/BOSSY254-LEVI">BOSSY254-LEVI</a>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Animated Status Badges -->
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square&labelColor=black" />
+    <img src="https://img.shields.io/badge/CODING-6+HRS-2575FC?style=flat-square&labelColor=black" />
+    <img src="https://img.shields.io/badge/MOOD-CREATIVE-FF69B4?style=flat-square&labelColor=black" />
+    <img src="https://img.shields.io/badge/COFFEE-LEVEL_☕☕☕-6A11CB?style=flat-square&labelColor=black" />
+  </p>
+  
+  <!-- Footer Line -->
+  <p align="center">
+    <code>━━━━━━━━━━━━━━━━━━━━━━ [ SYSTEM READY ] ━━━━━━━━━━━━━━━━━━━━━━</code>
+  </p>
+  
+</div>
+
+<br>
+
+<!-- Simple Alternative Version (Guaranteed to Work) -->
+<p align="center">
+  <b>📋 QUICK PROFILE:</b><br>
+  👨‍💻 Senior Full-Stack Developer<br>
+  🎨 UI/UX Architect<br>
+  🤖 AI SaaS Specialist<br>
+  🎵 Jazz Debugger ☕
+</p>
+
+</div>
+
 
 ## 🕹️ **GAMEIFIED SKILL MATRIX**
 
@@ -366,39 +588,6 @@ while(alive) {
 </div>
 
 ---
-
-## 📋 **IMPLEMENTATION CHECKLIST**
-
-To make this README fully functional:
-
-### 🎮 **Snake Game Setup**
-1. Create a GitHub Actions workflow in `.github/workflows/snake.yml`:
-```yaml
-name: Generate snake animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        with:
-          github_user_name: BOSSY254-LEVI
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ### 📊 **WakaTime Integration**
 1. Sign up at [WakaTime](https://wakatime.com)
